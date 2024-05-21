@@ -1,6 +1,6 @@
 # SWAPI Takehome
 
-This is intended to be a short takehome exercise where you integrate with a third party API to create a simple React application. Fork or download this repository to complete the challenge. Please do not submit pull requests to this repository as a solution.
+This is intended to be a short takehome exercise where you integrate with a third party API to create a simple React application. Download this repository to complete the challenge. Please do not submit pull requests to this repository as a solution.
 
 (Alternatively, if you would like to accomplish this same task in a different environment, you are welcome to. We provide this as a template, not as a requirement.)
 
